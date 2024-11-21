@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 In this case you can use virtual environment to install the required packages.
 
-To run the source code, you need to have Python 3 installed on your local machine. You can install Python 3 using the following instructions:
+To run the source code, you need to have Python 3 installed on your local machine.
 
 ```sh
 python3 aixposure.py
@@ -70,6 +70,7 @@ python3 aixposure.py
 ### Succesfull Run
 
 If the application runs successfully, you should see the following output:
+Keep in mind that the first run of the application may take a while to load the models.
 
 ```sh
 Loading the text and image classification models...
