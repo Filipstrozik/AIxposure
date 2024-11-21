@@ -1,0 +1,8 @@
+pynput==1.7.7
+Pillow==10.4.0
+pytesseract==0.3.13
+opencv-python==4.10.0.84
+numpy==2.0.0
+pyautogui==0.9.54
+transformers==4.45.2
+torch==2.4.1
