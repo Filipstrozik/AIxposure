@@ -94,6 +94,18 @@ Use the following shortcuts to take screenshots and analyze content for AI gener
 - **CTRL + SHIFT + I**: Detect only images to determine if they are AI-generated.
 - **CTRL + ESC**: Quit the program.
 
+# Sample usage
+
+You can watch a sample usage video by clicking the link below:
+
+CTRL + SHIFT + I:
+
+[![Watch the video](assets/ai_sample.gif)](assets/ai_sample.gif)
+
+CTRL + SHIFT + S:
+
+[![Watch the video](assets/ai_sample2.gif)](assets/ai_sample2.gif)
+
 # References
 
 - RADAR (Text detection model):

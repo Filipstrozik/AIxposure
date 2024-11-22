@@ -165,8 +165,8 @@ def crop_image(image: Image.Image, option: ShortcutOption):
 
         if option == ShortcutOption.TEXT:
             extracted_text = extract_text(cropped)
-        elif option == ShortcutOption.IMAGE:
-            _, extracted_image = extract_image(cropped)
+        elif option == ShortcutOption.IMAGE: # cropped image should only contain image to detect.
+            extracted_image = cropped
         else:
             redacted, extracted_image = extract_image(cropped)
             extracted_text = extract_text(redacted)
